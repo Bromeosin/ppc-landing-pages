@@ -1054,6 +1054,10 @@ hr {
 .three:hover, .columns:hover, .blog-block:hover {
   display: relative; }
 
+.footer-lower {
+  padding-top: 1em;
+  padding-bottom: 1em; }
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 /**
  * 1. Set default font family to sans-serif.
@@ -1757,6 +1761,11 @@ blockquote {
   list-style: disc;
   margin-left: 4rem;
   font-size: 1.7rem; }
+
+.footer-text p {
+  font-size: 1.4rem;
+  font-weight: 200;
+  color: #EFF0FF; }
 
 /* Backgrounds
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
