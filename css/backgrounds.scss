@@ -1,0 +1,59 @@
+/* Backgrounds
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.dark {
+	background-color: $dark;
+}
+
+.light {
+	background-color: $light;
+}
+
+.grey {
+	background-color: $grey;
+}
+
+.white {
+	background-color: $white;
+}
+
+.custom-background-colour-1 {
+	background-color: $custom-background-colour-1;
+}
+
+.custom-background-colour-2 {
+	background-color: $custom-background-colour-2;
+}
+
+.custom-background-colour-3 {
+	background-color: $custom-background-colour-3;
+}
+
+.custom-background-colour-4 {
+	background-color: $custom-background-colour-4;
+}
+
+.testimonial {
+	background-image: url($custom-background-1-url);
+	background-size: cover;
+}
+
+.custom-background-1 {
+	background-image: url($custom-background-1-url);
+	background-size: cover;
+}
+
+.custom-background-2 {
+	background-image: url($custom-background-2-url);
+	background-size: cover;
+}
+
+.custom-background-3 {
+	background-image: url($custom-background-3-url);
+	background-size: cover;
+}
+
+.custom-background-4 {
+	background-image: url($custom-background-4-url);
+	background-size: cover;
+}

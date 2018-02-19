@@ -1,0 +1,102 @@
+/* Colours
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* ENTER YOUR PRIMARY COLOUR HERE */
+$primary-colour: #324F75;
+
+/* ENTER A COLOUR HERE FOR ALL CTA'S */
+$cta: #FFC843;
+
+/* ENTER YOUR DARK COLOUR HERE (This will be used as a background colour) */
+$dark: #2B2D42;
+
+/* ENTER A COLOUR HERE THAT IS LIGHT (This will be used as a background colour) */
+$light: #E7F6F9;
+
+/* THIS IS A FAIRLY STANDARD GREY - YOU CAN CHANGE IF YOU WANT */
+$grey: #E7F6F9;
+
+/* THIS IS SUPER WHITE, LIKE WHITE AF */
+$white: #ffffff;
+
+/* CUSTOM BACKGROUND COLOR #1 */
+$custom-background-colour-1: #E7F6F9;
+
+    /* WHAT COLOUR SHOULD TEXT BE OVER THIS? */
+    $custom-text-colour-1: #E7F6F9;
+
+/* CUSTOM BACKGROUND COLOR #2 */
+$custom-background-colour-2: #E7F6F9;
+
+    /* WHAT COLOUR SHOULD TEXT BE OVER THIS? */
+    $custom-text-colour-2: #E7F6F9;
+
+/* CUSTOM BACKGROUND COLOR #3 */
+$custom-background-colour-3: #E7F6F9;
+
+    /* WHAT COLOUR SHOULD TEXT BE OVER THIS? */
+    $custom-text-colour-3: #E7F6F9;
+
+/* CUSTOM BACKGROUND COLOR #4 */
+$custom-background-colour-4: #E7F6F9;
+
+    /* WHAT COLOUR SHOULD TEXT BE OVER THIS? */
+    $custom-text-colour-4: #E7F6F9;
+
+/* FOOTER COLOUR */
+$footer-colour: $dark;
+
+/* ENTER A COLOUR FOR THE TEXT IN THE FOOTER */
+$footer-text: #EFF0FF;
+
+
+/* Typography
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* ENTER YOUR FONT FAMILY SETTINGS HERE */
+$font-family: "proxima-soft",  Helvetica, Arial, sans-serif;
+
+/* ENTER YOUR HEADER FONT FAMILY SETTINGS HERE */
+$header-font-family: "proxima-soft",  Helvetica, Arial, sans-serif;
+
+/* ENTER SCALE FOR GLOBAL FONTS */
+$global-font-size: 62.5%;
+
+
+
+/* Images
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+
+/* NOTES
+
+  There are a number of pre-configured images in this package, they are required
+  to be placed in /images/. The list of pre-configured images is as follows:
+
+      - logo.png
+      - favicon.png
+
+*/
+
+/* Backgrounds
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+/* ENTER PATH TO TESTIMONIAL BACKGROUND */
+$testimonial-background-url: "images/confetti.svg";
+
+/* MASTHEAD BACKGROUND PATH */
+$masthead-background-url: "images/confetti.svg";
+
+/* CUSTOM BACKGROUND ONE PATH */
+$custom-background-1-url: "images/confetti.svg";
+
+/* CUSTOM BACKGROUND TWO PATH */
+$custom-background-2-url: "images/confetti.svg";
+
+/* CUSTOM BACKGROUND THREE PATH */
+$custom-background-3-url: "images/confetti.svg";
+
+/* CUSTOM BACKGROUND FOUR PATH */
+$custom-background-4-url: "images/confetti.svg";
