@@ -1,1 +1,1 @@
-# ppc-landing-pages
+# seed
